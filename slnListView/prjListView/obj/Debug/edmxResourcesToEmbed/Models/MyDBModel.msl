@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MyDBModelStoreContainer" CdmEntityContainer="MyDBEntities">
+    <EntitySetMapping Name="產品資料">
+      <EntityTypeMapping TypeName="MyDBModel.產品資料">
+        <MappingFragment StoreEntitySet="產品資料">
+          <ScalarProperty Name="類別編號" ColumnName="類別編號" />
+          <ScalarProperty Name="編號" ColumnName="編號" />
+          <ScalarProperty Name="產品編號" ColumnName="產品編號" />
+          <ScalarProperty Name="品名" ColumnName="品名" />
+          <ScalarProperty Name="單價" ColumnName="單價" />
+          <ScalarProperty Name="圖示" ColumnName="圖示" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="產品類別">
+      <EntityTypeMapping TypeName="MyDBModel.產品類別">
+        <MappingFragment StoreEntitySet="產品類別">
+          <ScalarProperty Name="類別編號" ColumnName="類別編號" />
+          <ScalarProperty Name="類別名稱" ColumnName="類別名稱" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="管理者">
+      <EntityTypeMapping TypeName="MyDBModel.管理者">
+        <MappingFragment StoreEntitySet="管理者">
+          <ScalarProperty Name="姓名" ColumnName="姓名" />
+          <ScalarProperty Name="密碼" ColumnName="密碼" />
+          <ScalarProperty Name="帳號" ColumnName="帳號" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,119 @@
+C:\ASPNET\ch11\slnListView\prjListView\bin\roslyn\csc.exe
+C:\ASPNET\ch11\slnListView\prjListView\bin\roslyn\csc.exe.config
+C:\ASPNET\ch11\slnListView\prjListView\bin\roslyn\csc.rsp
+C:\ASPNET\ch11\slnListView\prjListView\bin\roslyn\csi.exe
+C:\ASPNET\ch11\slnListView\prjListView\bin\roslyn\csi.rsp
+C:\ASPNET\ch11\slnListView\prjListView\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ASPNET\ch11\slnListView\prjListView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ASPNET\ch11\slnListView\prjListView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ASPNET\ch11\slnListView\prjListView\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ASPNET\ch11\slnListView\prjListView\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ASPNET\ch11\slnListView\prjListView\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ASPNET\ch11\slnListView\prjListView\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ASPNET\ch11\slnListView\prjListView\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ASPNET\ch11\slnListView\prjListView\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ASPNET\ch11\slnListView\prjListView\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ASPNET\ch11\slnListView\prjListView\bin\roslyn\System.AppContext.dll
+C:\ASPNET\ch11\slnListView\prjListView\bin\roslyn\System.Collections.Immutable.dll
+C:\ASPNET\ch11\slnListView\prjListView\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ASPNET\ch11\slnListView\prjListView\bin\roslyn\System.IO.FileSystem.dll
+C:\ASPNET\ch11\slnListView\prjListView\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ASPNET\ch11\slnListView\prjListView\bin\roslyn\System.Reflection.Metadata.dll
+C:\ASPNET\ch11\slnListView\prjListView\bin\roslyn\vbc.exe
+C:\ASPNET\ch11\slnListView\prjListView\bin\roslyn\vbc.exe.config
+C:\ASPNET\ch11\slnListView\prjListView\bin\roslyn\vbc.rsp
+C:\ASPNET\ch11\slnListView\prjListView\bin\roslyn\VBCSCompiler.exe
+C:\ASPNET\ch11\slnListView\prjListView\bin\roslyn\VBCSCompiler.exe.config
+C:\ASPNET\ch11\slnListView\prjListView\bin\prjListView.dll.config
+C:\ASPNET\ch11\slnListView\prjListView\bin\prjListView.dll
+C:\ASPNET\ch11\slnListView\prjListView\bin\prjListView.pdb
+C:\ASPNET\ch11\slnListView\prjListView\bin\EntityFramework.dll
+C:\ASPNET\ch11\slnListView\prjListView\bin\EntityFramework.SqlServer.dll
+C:\ASPNET\ch11\slnListView\prjListView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ASPNET\ch11\slnListView\prjListView\bin\EntityFramework.xml
+C:\ASPNET\ch11\slnListView\prjListView\bin\EntityFramework.SqlServer.xml
+C:\ASPNET\ch11\slnListView\prjListView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ASPNET\ch11\slnListView\prjListView\bin\zh-Hant\EntityFramework.resources.dll
+C:\ASPNET\ch11\slnListView\prjListView\obj\Debug\prjListView.csprojResolveAssemblyReference.cache
+C:\ASPNET\ch11\slnListView\prjListView\obj\Debug\prjListView.dll
+C:\ASPNET\ch11\slnListView\prjListView\obj\Debug\prjListView.pdb
+C:\ASPNET\ch12\slnListView\prjListView\bin\roslyn\csc.exe
+C:\ASPNET\ch12\slnListView\prjListView\bin\roslyn\csc.exe.config
+C:\ASPNET\ch12\slnListView\prjListView\bin\roslyn\csc.rsp
+C:\ASPNET\ch12\slnListView\prjListView\bin\roslyn\csi.exe
+C:\ASPNET\ch12\slnListView\prjListView\bin\roslyn\csi.rsp
+C:\ASPNET\ch12\slnListView\prjListView\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ASPNET\ch12\slnListView\prjListView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ASPNET\ch12\slnListView\prjListView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ASPNET\ch12\slnListView\prjListView\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ASPNET\ch12\slnListView\prjListView\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ASPNET\ch12\slnListView\prjListView\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ASPNET\ch12\slnListView\prjListView\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ASPNET\ch12\slnListView\prjListView\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ASPNET\ch12\slnListView\prjListView\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ASPNET\ch12\slnListView\prjListView\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ASPNET\ch12\slnListView\prjListView\bin\roslyn\System.AppContext.dll
+C:\ASPNET\ch12\slnListView\prjListView\bin\roslyn\System.Collections.Immutable.dll
+C:\ASPNET\ch12\slnListView\prjListView\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ASPNET\ch12\slnListView\prjListView\bin\roslyn\System.IO.FileSystem.dll
+C:\ASPNET\ch12\slnListView\prjListView\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ASPNET\ch12\slnListView\prjListView\bin\roslyn\System.Reflection.Metadata.dll
+C:\ASPNET\ch12\slnListView\prjListView\bin\roslyn\vbc.exe
+C:\ASPNET\ch12\slnListView\prjListView\bin\roslyn\vbc.exe.config
+C:\ASPNET\ch12\slnListView\prjListView\bin\roslyn\vbc.rsp
+C:\ASPNET\ch12\slnListView\prjListView\bin\roslyn\VBCSCompiler.exe
+C:\ASPNET\ch12\slnListView\prjListView\bin\roslyn\VBCSCompiler.exe.config
+C:\ASPNET\ch12\slnListView\prjListView\bin\prjListView.dll.config
+C:\ASPNET\ch12\slnListView\prjListView\bin\prjListView.dll
+C:\ASPNET\ch12\slnListView\prjListView\bin\prjListView.pdb
+C:\ASPNET\ch12\slnListView\prjListView\bin\EntityFramework.dll
+C:\ASPNET\ch12\slnListView\prjListView\bin\EntityFramework.SqlServer.dll
+C:\ASPNET\ch12\slnListView\prjListView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ASPNET\ch12\slnListView\prjListView\bin\EntityFramework.xml
+C:\ASPNET\ch12\slnListView\prjListView\bin\EntityFramework.SqlServer.xml
+C:\ASPNET\ch12\slnListView\prjListView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ASPNET\ch12\slnListView\prjListView\bin\zh-Hant\EntityFramework.resources.dll
+C:\ASPNET\ch12\slnListView\prjListView\obj\Debug\prjListView.csprojResolveAssemblyReference.cache
+C:\ASPNET\ch12\slnListView\prjListView\obj\Debug\prjListView.dll
+C:\ASPNET\ch12\slnListView\prjListView\obj\Debug\prjListView.pdb
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\roslyn\csc.exe
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\roslyn\csc.exe.config
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\roslyn\csc.rsp
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\roslyn\csi.exe
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\roslyn\csi.rsp
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\roslyn\System.AppContext.dll
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\roslyn\System.Collections.Immutable.dll
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\roslyn\System.IO.FileSystem.dll
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\roslyn\System.Reflection.Metadata.dll
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\roslyn\vbc.exe
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\roslyn\vbc.exe.config
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\roslyn\vbc.rsp
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\roslyn\VBCSCompiler.exe
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\roslyn\VBCSCompiler.exe.config
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\prjListView.dll.config
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\prjListView.dll
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\prjListView.pdb
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\EntityFramework.dll
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\EntityFramework.SqlServer.dll
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\EntityFramework.xml
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\EntityFramework.SqlServer.xml
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\bin\zh-Hant\EntityFramework.resources.dll
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\obj\Debug\prjListView.csprojAssemblyReference.cache
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\obj\Debug\prjListView.csproj.CoreCompileInputs.cache
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\obj\Debug\prjListView.csproj.CopyComplete
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\obj\Debug\prjListView.dll
+D:\線上課程\asp.net web form程式範例檔\slnListView-整合行動網站\slnListView\prjListView\obj\Debug\prjListView.pdb

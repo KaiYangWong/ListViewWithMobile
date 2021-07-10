@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MyDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="產品資料">
+    <Key>
+      <PropertyRef Name="產品編號" />
+    </Key>
+    <Property Name="類別編號" Type="int" />
+    <Property Name="編號" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="產品編號" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="品名" Type="nvarchar" MaxLength="40" />
+    <Property Name="單價" Type="int" />
+    <Property Name="圖示" Type="nvarchar" MaxLength="40" />
+  </EntityType>
+  <EntityType Name="產品類別">
+    <Key>
+      <PropertyRef Name="類別編號" />
+    </Key>
+    <Property Name="類別編號" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="類別名稱" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="管理者">
+    <Key>
+      <PropertyRef Name="帳號" />
+    </Key>
+    <Property Name="帳號" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="密碼" Type="nvarchar" MaxLength="50" />
+    <Property Name="姓名" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_產品資料_產品類別">
+    <End Role="產品類別" Type="Self.產品類別" Multiplicity="0..1" />
+    <End Role="產品資料" Type="Self.產品資料" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="產品類別">
+        <PropertyRef Name="類別編號" />
+      </Principal>
+      <Dependent Role="產品資料">
+        <PropertyRef Name="類別編號" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MyDBModelStoreContainer">
+    <EntitySet Name="產品資料" EntityType="Self.產品資料" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="產品類別" EntityType="Self.產品類別" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="管理者" EntityType="Self.管理者" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_產品資料_產品類別" Association="Self.FK_產品資料_產品類別">
+      <End Role="產品類別" EntitySet="產品類別" />
+      <End Role="產品資料" EntitySet="產品資料" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
